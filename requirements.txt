@@ -4,4 +4,4 @@ colorama
 itsdangerous
 Jinja2
 MarkupSafe
-Werkzeug
+Werkzeug==2.2.2
